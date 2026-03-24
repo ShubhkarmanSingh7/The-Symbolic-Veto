@@ -1,7 +1,7 @@
 # The-Symbolic-Veto-An-ACT-R-Based-Architecture-for-Physical-Grounding-in-VLA-Robots
 
 **Course:** Cognitive Architecture  
-**Author:** Shubhkarman Singh  
+**Author:** Shubhkarman Singh and Avani Deshpande 
 **Institution:** Dayananda Sagar University  
 
 ## 📌 Project Overview
