@@ -1,4 +1,4 @@
-# The-Symbolic-Veto-An-ACT-R-Based-Architecture-for-Physical-Grounding-in-VLA-Robots
+# The Symbolic Veto: An ACT-R Based Architecture for Physical Grounding in VLA Robots
 
 **Course:** Cognitive Architecture  
 **Author:** Shubhkarman Singh and Avani Deshpande 
