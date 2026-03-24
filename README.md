@@ -2,6 +2,7 @@
 
 **Course:** Cognitive Architecture  
 **Author:** Shubhkarman Singh and Avani Deshpande 
+
 **Institution:** Dayananda Sagar University  
 
 ## 📌 Project Overview
