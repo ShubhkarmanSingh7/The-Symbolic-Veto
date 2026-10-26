@@ -1,7 +1,7 @@
 # The Symbolic Veto: An ACT-R Based Architecture for Physical Grounding in VLA Robots
 
 **Course:** Cognitive Architecture  
-**Author:** Shubhkarman Singh, Avani Deshpande, Rutu Patil**Institution:** Dayananda Sagar University
+**Author:** Shubhkarman Singh, Avani Deshpande, Rutu Patil **Institution:** Dayananda Sagar University
 
 ## 📌 Project Overview
 
